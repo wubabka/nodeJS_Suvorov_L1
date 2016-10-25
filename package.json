@@ -1,0 +1,18 @@
+{
+  "name": "nodeJS_Suvorov_L1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello-npm.js",
+  "dependencies": {
+    "ansi": "*",
+    "chalk": "*",
+    "prompt": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
